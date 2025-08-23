@@ -1,8 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
 
-<p align="left">I’m a Software Engineering student with a strong interest in backend development, APIs, and building systems that are efficient and scalable.<br>I see programming as a way to solve real problems and create solutions that are useful, simple, well-designed, and long-lasting.</p>
+<br clear="both">
+
+<p align="left">I’m a Software Engineering student with a strong interest in backend development, APIs, and building systems that are efficient and scalable. I see programming as a way to solve real problems and create solutions that are useful, simple, well-designed, and long-lasting.</p>
 
 ###
 
@@ -56,12 +58,12 @@
 
 ###
 
-<img align="left" height="198" src="https://i.giphy.com/Ci4vIzBJxofxI8xbgh.webp"  />
+<img align="left" height="162" src="https://i.giphy.com/Ci4vIzBJxofxI8xbgh.webp"  />
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rsambing&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rsambing&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=rsambing&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -77,6 +79,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rsambing/rsambing/output/pacman-contribution-graph-dark.svg">

@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">I’m a Software Engineering student with a strong interest in backend development, APIs, and building systems that are efficient and scalable. I see programming as a way to solve real problems and create solutions that are useful, simple, well-designed, and long-lasting.</p>
+<p align="left">Data Engineer with experience in designing and developing ETL pipelines and data-driven systems within the financial sector (banking and insurance).</p>
 
 ###
 

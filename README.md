@@ -64,22 +64,19 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rsambing&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=rsambing&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 ###
+
+[![committers.top badge](https://user-badge.committers.top/angola_private/rsambing.svg)](https://user-badge.committers.top/angola_private/rsambing)
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rsambing/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@reinaldotaveira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rsambing/rsambing/output/snake.svg" alt="Snake animation" />
-
-###
